@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "493123849310",
+    "firebase_url": "https://betos-71754.firebaseio.com",
+    "project_id": "betos-71754",
+    "storage_bucket": "betos-71754.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493123849310:android:6829b43b3deb992a7a38cf",
+        "android_client_info": {
+          "package_name": "initdev.com.ar.betos_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493123849310-gbp2u8mps4jvesuuk2rf8q9smkotb0dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGcVVTb1LVVSVFwNWX6XXlKKCNhQKh2Zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493123849310-gbp2u8mps4jvesuuk2rf8q9smkotb0dk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
